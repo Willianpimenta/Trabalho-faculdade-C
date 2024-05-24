@@ -6,5 +6,5 @@ Código Único por Fruta: A função codigoExiste garante que os códigos das fr
 Verificação de Estoque: A função venderFruta verifica a disponibilidade de estoque antes de realizar a venda.
 Registro de Vendas: As vendas são registradas no arquivo vendas.txt pela função registrarVenda.
 Exemplos de Frutas Pré-Cadastradas: Frutas como Banana, Maçã e Laranja são cadastradas no início do main para demonstração.
-##funcionamento
+#funcionamento
 ![Captura de Tela (71)](https://github.com/Willianpimenta/Trabalho-faculdade-C/assets/66370178/a3ccfc82-3ffb-4e75-8695-4d82020531de)
